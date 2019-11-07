@@ -1,4 +1,3 @@
-
 def square_array(array)
   # your code here
   counter = 0
@@ -8,4 +7,3 @@ def square_array(array)
   end
   new_list
 end
-
